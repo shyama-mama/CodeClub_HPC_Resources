@@ -1,3 +1,7 @@
+# Session Recording can be found here:
+https://adelaide.zoom.us/rec/share/BL1JiRtvYUl8qFgixSK8doRGorajYlmkcrWXOiNy8mzcol5poQN3ib7vQfCMr2Yr.tQ0pLd5Bz_5rpCkI
+Password: i!$qu6JA
+
 # CodeClub_HPC_Resources
 Resources for HPC Introduction Code Club
 
